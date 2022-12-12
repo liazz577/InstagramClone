@@ -1,4 +1,4 @@
-export const fbConfig = {
+export const firebaseConfig = {
     apiKey: "AIzaSyCiUl5ryauwZ8LzZ1rRbeCUQoIz_U1H_oU",
     authDomain: "voice-video-chat-app-7b6af.firebaseapp.com",
     databaseURL: "https://voice-video-chat-app-7b6af-default-rtdb.asia-southeast1.firebasedatabase.app",
